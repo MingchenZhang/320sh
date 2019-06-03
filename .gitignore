@@ -1,0 +1,6 @@
+*.out
+*.o
+*.a
+*~
+320sh
+nbproject/
